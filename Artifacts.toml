@@ -1,0 +1,143 @@
+[[SuiteSparse_LBT]]
+arch = "aarch64"
+git-tree-sha1 = "51d050780e9fb118475daac2b582c524b6373c8c"
+os = "macos"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "67d87dfce1f6172abb34b9cfe84919fccf2f0cad211b7d4a8ae97f453110a1e0"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.aarch64-apple-darwin.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "aarch64"
+git-tree-sha1 = "a8395f7becfad2f732e23eaa29aeeb207b5773ab"
+libc = "glibc"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "dd1ad54897fea630d7ff7b5f40216ca333eb2e0aeb070643d148935d494e90d6"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.aarch64-linux-gnu.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "aarch64"
+git-tree-sha1 = "571e9fe5a9703037ede32bddb8d215a9172751f6"
+libc = "musl"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "cd71b242886290567627c83609cf523f33cf40c8e1267d644eeffabf8bba69c9"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.aarch64-linux-musl.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9793f74a9df5290a1666bbb79a6f07b0a079001d"
+libc = "glibc"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "cc7493c8839883961037291bbce8710fd39ef929fb1f82b2df9d57afa3cce9bc"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.armv6l-linux-gnueabihf.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e21160130abcc512758f9e44bac39f2dd501eb2d"
+libc = "musl"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "0d6ccd1c7600e82fe4658f4c06ac099bb0a96986e6ad84882bcfd191082b0473"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.armv6l-linux-musleabihf.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4d8173e2eb3d6025b712a140194b080298301ba8"
+libc = "glibc"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "82603babe30e4e26e3c77f26572d0ef2d7d9188f2b1cf642234c6bcd4eb98eae"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5e7e4f4b5b2874bb258bc2514ae730b5bd1fbdce"
+libc = "musl"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "bf2abb82eea149100f774d06ced61c3b44d2856ebdb753c4ab9942a933ce266c"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.armv7l-linux-musleabihf.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "i686"
+git-tree-sha1 = "49b40fb4725b4aa622b1f629963e8022bda8428c"
+libc = "glibc"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "5fcdfdbcb0edf2f341d970890471fc18ef4ba88c3ffa2744e953d8e4e829bffc"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.i686-linux-gnu.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "i686"
+git-tree-sha1 = "33875b5d792e5fa439d040084964090a711e65ba"
+libc = "musl"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "8590fe8f9347858e67f13ad391b7c1f2a774e2b1dded274ef8ac4f08a3127110"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.i686-linux-musl.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "i686"
+git-tree-sha1 = "bf9e4a6a3a693f9bab12066f2947636e1d9bb1b5"
+os = "windows"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "22139aebf7f5fc5afb085cb35206cb6967538efcfefcbe1781ff85985d3538d5"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.i686-w64-mingw32.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "powerpc64le"
+git-tree-sha1 = "f3d3b1a2b7fc7a809282860ba59e1708ec385e69"
+libc = "glibc"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "4d28e275348cf0af9c869cf56df4f5e1065098b790c4e911090f6f2a22f0f8d1"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.powerpc64le-linux-gnu.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "x86_64"
+git-tree-sha1 = "3fd4d62d5ea09e5192ef38fed33b1041606b18e6"
+os = "macos"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "8a7aaa3d565d850068aaaf0565d0fccd5063936e74e8a8cfc1e382de352d5de6"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.x86_64-apple-darwin.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "x86_64"
+git-tree-sha1 = "8c789f946b71257166dea5c04a1efd7886b74078"
+libc = "glibc"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "098525439760d33ea518cb5c054a5a1ca2b416f05f1dba505040d6fdbc335dc8"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.x86_64-linux-gnu.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "x86_64"
+git-tree-sha1 = "4bf89b1f512121fb8b6393bfe20757cc2445e233"
+libc = "musl"
+os = "linux"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "4625a1cf9d9842d23d780a9957af2ad432d52ff3166e7539b6d48327b29332d0"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.x86_64-linux-musl.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "x86_64"
+git-tree-sha1 = "80524e99515a73c07eb129e6a7f7ba9ddc4e9b93"
+os = "freebsd"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "8b2a2f3e08a246eb7efe0ef2dda19b34f0a6e64ce0020898c3c5f56f887f0b93"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.x86_64-unknown-freebsd.tar.gz"
+[[SuiteSparse_LBT]]
+arch = "x86_64"
+git-tree-sha1 = "5063be15fd3f85c1fd5bccd0e5d5411662128fcf"
+os = "windows"
+
+    [[SuiteSparse_LBT.download]]
+    sha256 = "f2ea56fb0b8eabed5c19f22363e8acea60e2b855e1990965b2b8522545544fe7"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_LBT_jll.jl/releases/download/SuiteSparse_LBT-v5.4.1+0/SuiteSparse_LBT.v5.4.1.x86_64-w64-mingw32.tar.gz"
